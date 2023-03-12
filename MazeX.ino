@@ -1,5 +1,5 @@
 int leftMotor = 5; // Attach left motor to pin 5
-int rightMotor = 6; // Attach right motor to pin 6
+int rightMotor = 7; // Attach right motor to pin 6
 int sensorLeft = A0; // Attach left sensor to analog pin A0
 int sensorRight = A1; // Attach right sensor to analog pin A1
 int sensorThreshold = 500; // Set sensor threshold value
